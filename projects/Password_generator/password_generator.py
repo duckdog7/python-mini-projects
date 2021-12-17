@@ -17,7 +17,7 @@ class App:
         self.button()
 
     def label(self):
-        label_title = Label(self.window, text='Welcome to password generator', font=('Courrier', 20), bg='gray', fg='black')
+        label_title = Label(self.window, text='Welcome to password generator2', font=('Courrier', 20), bg='gray', fg='black')
         label_title.pack()
 
     def entry(self):
